@@ -9,7 +9,7 @@
 <br>
 <hr>
 Page 구현
-<img src="/src/main/resources/images/3.png" width="400" height="600">
+<img src="/src/main/resources/images/3.png" width="600" height="400">
 <br>
 <hr>
 
